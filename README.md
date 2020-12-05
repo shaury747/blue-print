@@ -1,2 +1,1 @@
-# blue-print
-blue print
+# Box Class
